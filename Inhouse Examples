@@ -1,0 +1,8 @@
+<div id="FeederNinja_54f9e0207a394fc39143c565cd14ca24"></div>
+<script type="text/javascript">
+(function() {
+  var fn = document.createElement('script'); fn.type = 'text/javascript';
+	fn.src = 'http://feederninja.com/api/feed/5f46fd3a8b20442abed3d794a497f7a5?fnurl=' + window.location.href;
+	var s = document.getElementsByTagName('head')[0].appendChild(fn);
+})();
+</script>
